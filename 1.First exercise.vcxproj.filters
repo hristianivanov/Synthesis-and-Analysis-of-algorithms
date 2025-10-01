@@ -13,19 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\second-task">
-      <UniqueIdentifier>{118d8a2f-12dd-43f5-82b9-8816414c3980}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\third-task">
-      <UniqueIdentifier>{12c050c9-5fdb-4070-8553-81c9dcb24b15}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\first-task">
-      <UniqueIdentifier>{bfab779d-3ab8-4dff-80a6-79f2a7bb7aa3}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code.c">
-      <Filter>Source Files\first-task</Filter>
+    <ClCompile Include="second_way.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="first_way.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
