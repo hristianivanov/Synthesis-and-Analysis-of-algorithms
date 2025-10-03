@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.First exercise", "1.First exercise.vcxproj", "{91A21D04-6C7C-4E34-AB30-DAB33B2ED060}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.Greatest common diviser", "1.First exercise.vcxproj", "{91A21D04-6C7C-4E34-AB30-DAB33B2ED060}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.Second exercise", "..\2.Second exercise\2.Second exercise.vcxproj", "{E0E2E32D-D620-4743-826F-9B3084FFF411}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.Fraction reduction", "..\2.Fraction reduction\2.Second exercise.vcxproj", "{E0E2E32D-D620-4743-826F-9B3084FFF411}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.Third exercise", "..\3.Third exercise\3.Third exercise.vcxproj", "{67C2692B-9849-4341-B64E-49EBE45FDF10}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. Least common multiple", "..\3.Least common multiple\3.Third exercise.vcxproj", "{67C2692B-9849-4341-B64E-49EBE45FDF10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

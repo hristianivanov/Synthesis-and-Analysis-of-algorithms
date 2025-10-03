@@ -24,6 +24,7 @@
     <ProjectGuid>{91a21d04-6c7c-4e34-ab30-dab33b2ed060}</ProjectGuid>
     <RootNamespace>My1Firstexercise</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1.Greatest common diviser</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
